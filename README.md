@@ -17,10 +17,9 @@ Notebooks describe quality control, batch correction, cell type annotation and d
 - Raw data is available on [AWS](https://s3.console.aws.amazon.com/s3/buckets/czb-tabula-muris-senis?region=us-west-2&tab=objects)
 - Annotated read count data matrices are available on [Figshare](https://figshare.com/projects/Molecular_hallmarks_of_heterochronic_parabiosis_at_single_cell_resolution/127628)  in `h5ad` and in `RDS` formats
 
-<p align="center">
-  <img src="./browser.png" alt="browser"/>
-</p>
 
 ## Online Data Browser
+
+[<p align="center"><img src="./browser.png" alt="browser"/></p>](https://ccb-web.cs.uni-saarland.de/parabiosis/))
 
 Explore the dataset via our [interactive data browser](https://ccb-web.cs.uni-saarland.de/parabiosis/)

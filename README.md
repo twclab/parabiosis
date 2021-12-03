@@ -11,3 +11,16 @@ Notebooks describe quality control, batch correction, cell type annotation and d
 4. Differential Gene Expression
 5. Final data formatting steps
 6. Data conversion to RDS
+
+## Data
+
+- Raw data is available on [AWS](https://s3.console.aws.amazon.com/s3/buckets/czb-tabula-muris-senis?region=us-west-2&tab=objects)
+- Annotated read count data matrices are available on [Figshare](https://figshare.com/projects/Molecular_hallmarks_of_heterochronic_parabiosis_at_single_cell_resolution/127628)  in `h5ad` and in `RDS` formats
+
+## Online Data Browser
+
+Data is available via an [interactive data browser](https://ccb-web.cs.uni-saarland.de/parabiosis/).
+
+## Citation
+
+

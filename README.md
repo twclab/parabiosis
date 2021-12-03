@@ -19,8 +19,4 @@ Notebooks describe quality control, batch correction, cell type annotation and d
 
 ## Online Data Browser
 
-Data is available via an [interactive data browser](https://ccb-web.cs.uni-saarland.de/parabiosis/).
-
-## Citation
-
-
+Explore the dataset via our [interactive data browser](https://ccb-web.cs.uni-saarland.de/parabiosis/)
